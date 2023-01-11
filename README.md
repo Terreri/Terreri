@@ -3,12 +3,12 @@
 - 🔭 I’m currently working with Help Desk
 - 🌱 I’m currently learning Python, JavaScript, HTML5 and CSS3
 - ⚡ Fun fact: I'm a musician too, and you can listen my musics on all platforms here 👉 https://open.spotify.com/artist/1MZQ404LxYlrfl3nFAmolk?si=2muyoz64S5-RTJNth2zylg
-
+<!--
 <div align="center">
   <a href="https://github.com/Terreri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Terreri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Ter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
