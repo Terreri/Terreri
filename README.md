@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Terreri!
 
-- 🔭 I’m currently working with Help Desk
+- 🔭 I’m currently working with IT Customer Success
 - 🌱 I’m currently learning Python, JavaScript, HTML5 and CSS3
 - ⚡ Fun fact: I'm a musician too, and you can listen my musics on all platforms here 👉 https://open.spotify.com/artist/1MZQ404LxYlrfl3nFAmolk?si=2muyoz64S5-RTJNth2zylg
 
